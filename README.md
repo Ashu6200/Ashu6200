@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ashutosh KEwat</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Kewat</h1>
 <h3 align="center">A passionate MERN Stack developer from India
 <br/>
   <h5 align="center">
